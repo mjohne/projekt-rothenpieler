@@ -1,2 +1,2 @@
-# projekt-rothenpieler
+# Projekt Rothenpieler
 Staumbaum des "Projekt Rothenpieler"
